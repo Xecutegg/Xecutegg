@@ -1,6 +1,7 @@
 **Hey,I Am Souma Goswami (Aka : Xecute)**
 
  **Here Is My Discord**
+ 
  [![Discord Presence](https://discord.c99.nl/widget/theme-2/162213250719547392.png)](https://discord.com/users/162213250719547392) 
 
  **Check My Stats From Here**
@@ -15,5 +16,6 @@
  </div>
 
 **Let's Connect Feel free to connect with me on social media!**
+
  [![Discord](https://img.shields.io/badge/-Discord-7289DA?logo=discord&logoColor=white&style=flat)](https://discord.com/users/162213250719547392) 
  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/onedream.gg/) 
