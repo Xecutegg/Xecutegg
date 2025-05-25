@@ -1,56 +1,62 @@
-**Hey, I’m Souma Goswami (Aka Xecute)**
-
-🎮 Founder of **One Dream Esports**  
-🏆 Organizing **BGMI tournaments & scrims**  
-💻 Web Developer & Learning More <br>
-🚀 Passionate about **Esports & Gaming Production & Codeing**  
+<h1 align="center">Hello, I'm Souma Goswami</h1>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  <a href="https://discord.com/users/162213250719547392">
-    <img src="https://discord.c99.nl/widget/theme-2/162213250719547392.png" alt="Discord Presence">
+  <a href="https://xecute.me" target="_blank">Portfolio</a> •
+  <a href="mailto:soumogoswami2003@gmail.com">Contact</a> •
+  <a href="https://instagram.com/xecute.gg_" target="_blank">Instagram</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=xecutegg&label=Profile%20views&color=0e75b6&style=flat" alt="xecutegg" />
+  <a href="https://github.com/xecutegg?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/xecutegg?color=green&logo=github">
   </a>
-</p>  
+</p>
 
----
+## 🚀 About Me
 
-**📊 My Stats** 
-<div align="center">  
-  <a href="https://github.com/Xecutegg?tab=repositories">  
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xecutegg&bg_color=14151a&theme=dark&title_color=206DA2&text_color=FFFFFF&layout=compact&show_icons=true&border_color=206DA2&icon_color=206DA2&include_all_commits=true&border_radius=15&card_width=370">  
-  </a>  
-  <br>  
-  <a href="https://github.com/Xecutegg">  
-    <img width="370" src="https://github-readme-stats.vercel.app/api?username=Xecutegg&show_icons=true&bg_color=14151a&title_color=E1591F&text_color=FFFFFF&border_color=E1591F&icon_color=E1591F&include_all_commits=true&layout=compact&border_radius=15&card_width=370">  
-  </a>  
-</div>  
+I'm a passionate Full Stack Developer with expertise in building Discord bots and web applications, creating seamless user experiences with robust functionality.
 
----
+### Skills
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-**🌐 Connect With Me**
-Let’s collaborate and make something awesome!  
+## 📊 GitHub Stats
 
-<p align="center">  
-  <a href="https://discord.com/users/162213250719547392">
-    <img src="https://img.shields.io/badge/-Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge">
-  </a>  
-  <a href="https://www.instagram.com/onedream.gg/">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge">
-  </a>  
-</p>  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=xecutegg&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=xecutegg&theme=radical" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xecutegg&layout=compact&theme=radical" />
+</p>
 
-**🎨 My Skills**
-💡**Frontend & And Leaning More!:**  
+## 🏆 GitHub Trophies
 
-![Html](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=xecutegg&theme=radical&no-frame=true&row=1&margin-w=20" />
+</p>
 
-🛠 **Other Skills & Tools:**  
-- **Esports Production & Management**  
-- **Event Hosting & Community Building**
-- **Learning More.....**
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://instagram.com/xecute.gg_" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:soumogoswami2003@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
