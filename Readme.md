@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Souma Goswami</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Noob Developer</h3>
 
 <p align="center">
   <a href="https://xecute.me" target="_blank">Portfolio</a> •
