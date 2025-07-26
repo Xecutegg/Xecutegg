@@ -7,8 +7,7 @@
   <a href="https://instagram.com/xecute.gg_" target="_blank">Instagram</a>
 </p>
 
-[![xecuteyt.gg's Discord status](https://dsc-readme.tsuni.dev/api/user/162213250719547392?theme=nitroDark&primaryColor=5865F2&accentColor=99AAB5&width=512&animate=true)](https://github.com/TetraTsunami/discord-github-preview)
-
+[![xecuteyt.gg's Discord status](https://dsc-readme.tsuni.dev/api/user/162213250719547392?aboutMe=Information+%3A%0Ahttps%3A%2F%2Fxecute.me%2F%0A&theme=dark&width=512&animate=true)](https://github.com/TetraTsunami/discord-github-preview)
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xecutegg&label=Profile%20views&color=0e75b6&style=flat" alt="xecutegg" />
   <a href="https://github.com/xecutegg?tab=followers">
