@@ -1,11 +1,5 @@
-<h1 align="center">Hello, I'm Souma Goswami</h1>
-<h3 align="center">Noob Developer</h3>
-
-<p align="center">
-  <a href="https://xecute.me" target="_blank">Portfolio</a> •
-  <a href="mailto:soumogoswami2003@gmail.com">Contact</a> •
-  <a href="https://instagram.com/xecute.gg_" target="_blank">Instagram</a>
-</p>
+# About Me:
+Learning Software Developer focused on Web & App Development (MERN + React Native)<br>Building real-world projects and improving every day.
 
 [![xecuteyt.gg's Discord status](https://dsc-readme.tsuni.dev/api/user/162213250719547392?aboutMe=Information+%3A%0Ahttps%3A%2F%2Fxecute.me%2F%0A&theme=dark&width=512&animate=true)](https://github.com/TetraTsunami/discord-github-preview)
 <p align="center">
@@ -15,43 +9,15 @@
   </a>
 </p>
 
-## 🚀 About Me
+## Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/WVThZG7Q5X) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xecute.gg_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soumagoswami2002@gmail.com) 
 
-I'm a passionate Full Stack Developer with expertise in building Discord bots and web applications, creating seamless user experiences with robust functionality.
+# Tech Stack:
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Xecutegg&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Xecutegg&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Xecutegg&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### Skills
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=xecutegg&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=xecutegg&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xecutegg&layout=compact&theme=radical" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xecutegg&theme=radical&no-frame=true&row=1&margin-w=20" />
-</p>
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://instagram.com/xecute.gg_" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:soumogoswami2003@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+---
+[![](https://komarev.com/ghpvc/?username=Xecutegg&icon=3&color=12)](https://visitcount.itsvg.in)
