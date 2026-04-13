@@ -1,13 +1,7 @@
 # About Me:
 Learning Software Developer focused on Web & App Development (MERN + React Native)<br>Building real-world projects and improving every day.
 
-[![xecuteyt.gg's Discord status](https://dsc-readme.tsuni.dev/api/user/162213250719547392?aboutMe=Information+%3A%0Ahttps%3A%2F%2Fxecute.me%2F%0A&theme=dark&width=512&animate=true)](https://github.com/TetraTsunami/discord-github-preview)
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xecutegg&label=Profile%20views&color=0e75b6&style=flat" alt="xecutegg" />
-  <a href="https://github.com/xecutegg?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/xecutegg?color=green&logo=github">
-  </a>
-</p>
+[![xecuteyt.gg's Discord status](https://dsc-readme.tsuni.dev/api/user/162213250719547392?aboutMe=Checkout+%28Portfolio%29+%3A+https%3A%2F%2Fwww.founder.onedreamesports.in%2F&theme=dark&width=512)](https://github.com/TetraTsunami/discord-github-preview)
 
 ## Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/WVThZG7Q5X) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xecute.gg_) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soumagoswami2002@gmail.com) 
